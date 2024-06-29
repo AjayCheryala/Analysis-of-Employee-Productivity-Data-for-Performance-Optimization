@@ -1,5 +1,6 @@
 # Analysis of Employee Productivity Data for Performance Optimization
 
+
 ### Project Overview: 
 
 This project focuses on analyzing and optimizing employee productivity by transforming and querying the data stored in two tables: productivity and employees. 
