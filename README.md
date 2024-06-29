@@ -1,4 +1,5 @@
 # Analysis of Employee Productivity Data for Performance Optimization
+![Project Overview](images/project_overview.png)
 
 
 ### Project Overview: 
